@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/home/threeflowercat/Documents/network_app/MQTT/broker/mosquitto/plugins/message-timestamp",
+    "files.associations": {
+        "posix_sockets.h": "c"
+    }
+}
